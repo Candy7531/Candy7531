@@ -1,0 +1,7 @@
+    <script>console.log(Math.sqrt(45)- Math.sqrt(110)/11*(Math.sqrt(33)+1.5*Math.sqrt(22)-0.8*Math.sqrt(55))+Math.sqrt(30))</script>
+    <script>console.log(39*Math.pow(-1/32,-1)/(Math.pow(-2,15)*Math.pow(1/2,-6) *Math.pow(64,-3) +3*4*Math.pow(0.125,-1)))</script> 
+    <script>console.log(1/510*Math.sqrt(Math.pow(232,2)-Math.pow(57,2))+1/6*Math.sqrt(567)-28/15*Math.sqrt(25/28))</script>
+    <script>console.log(54.6*Math.sqrt(1/117)+0.05*Math.sqrt(468)-7/720*Math.sqrt(Math.pow(266,2)-Math.pow(58,2)))</script>
+    <script>console.log((1/3*Math.sqrt(39)-1/2*Math.sqrt(26)+1/6*Math.sqrt(65)) / (1/3*Math.sqrt(13)+Math.sqrt(18)-Math.sqrt(5)))</script>
+     <script>console.log(Math.pow(-0.1,-5)*Math.pow(1000,-1)+((4*Math.pow(7,-1)-3/5)/(Math.pow(-7,-2))))</script>
+    <script>console.log(Math.sqrt(45)-Math.sqrt(110)/11*(Math.sqrt(33)+1.5*Math.sqrt(22)-0.8*Math.sqrt(55))+Math.sqrt(55))</script>
